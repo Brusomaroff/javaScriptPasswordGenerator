@@ -13,4 +13,5 @@
 ## Step 6: When chosen all the criteria for password I had to have the password display in the box with the users matching criteria
 ---
 Link to my website here
+https://brusomaroff.github.io/javaScriptPasswordGenerator/
 ![javapasswordgenerator](https://user-images.githubusercontent.com/120063382/213278858-65b1eac2-dac4-4ec5-bdee-d386a77590ed.png)
