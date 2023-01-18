@@ -11,3 +11,5 @@
 ## Step 5: I had to make sure that the prompt messages functioned correctly and that the user has to choose atleast one option for password criteria
 
 ## Step 6: When chosen all the criteria for password I had to have the password display in the box with the users matching criteria
+
+---
