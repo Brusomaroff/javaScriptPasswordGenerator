@@ -12,7 +12,7 @@ var confirmNum;
 var confirmSpec;
 var userOptions;
 
-var Uppercaseblank = [];
+var blankUc = [];
 var toUpper = function (x) {
   return x.toUpperCase();
 };
@@ -115,7 +115,7 @@ function generatePassword() {
     console.log(userOptions);
   }
   else if (confirmUc) {
-    userOptions = Uppercaseblank.concat(upperCase);
+    userOptions = blankUc.concat(upperCase);
     console.log(userOptions);
   }
   else if (confirmNum) {
